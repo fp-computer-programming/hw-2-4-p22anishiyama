@@ -1,7 +1,5 @@
 # Author: ATN 9/20/21
 
-import math
-
 root = -19 + 100
-solution = (math.sqrt(root))
+solution = (root ** (1/2))
 print(solution)
